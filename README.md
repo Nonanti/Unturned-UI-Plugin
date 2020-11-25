@@ -2,7 +2,7 @@
 
 Bu eklenti giriş ekranında logo isim eklemenize izin verir.
 
-Plugin İndir:
+Plugin İndir:https://github.com/Nonanti/Unturned-UI-Plugin/releases
 # Configuration Dosyası
 ```
 <?xml version="1.0" encoding="utf-8"?>
